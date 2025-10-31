@@ -3,3 +3,10 @@ SQLAlchemy~=2.0.44
 fastapi~=0.120.1
 pydantic~=2.12.3
 python-dotenv~=1.2.1
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+pydantic
